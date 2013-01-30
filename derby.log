@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Jun 21 18:35:36 CST 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0130-b1c5-01c9-00000000002e 
+on database directory D:\Java\三级项目\SGS1\SGS1\myDB  with class loader sun.misc.Launcher$AppClassLoader@19821f 
+Loaded from file:/D:/eclipse-indigo-M5/eclipse/plugins/org.apache.derby.core_10.8.1/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_25-b06
+user.dir=D:\Java\三级项目\SGS1\SGS1
+derby.system.home=.
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 21 18:40:04 CST 2011: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Jun 21 18:40:05 CST 2011:
+Shutting down instance a816c00e-0130-b1c5-01c9-00000000002e on database directory D:\Java\三级项目\SGS1\SGS1\myDB with class loader sun.misc.Launcher$AppClassLoader@19821f 
+----------------------------------------------------------------
